@@ -27,9 +27,7 @@ function Readtime() {
       {/* Overlay Blur */}
       <div className="absolute inset-0 bg-black/70 backdrop-blur-md z-0" />
 
-      {/* Animated Glow */}
-      <div className="absolute -top-20 -left-20 w-96 h-96 bg-cyan-500 opacity-30 rounded-full blur-3xl animate-pulse z-0"></div>
-
+     
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto">
         <header className="text-center mb-12">
