@@ -100,7 +100,7 @@ function Video() {
         </div>
       </div>
     </div>
-    <Footer/>
+
           </>
   );
 }
